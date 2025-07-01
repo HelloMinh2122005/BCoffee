@@ -4,3 +4,9 @@
 [submodule "BCoffee-Backend"]
 	path = BCoffee-Backend
 	url = https://github.com/HelloMinh2122005/BCoffee-Backend.git
+[submodule "BCoffee-Frontend-Web"]
+	path = BCoffee-Frontend-Web
+	url = https://github.com/HelloMinh2122005/BCoffee-Frontend-Web.git
+[submodule "BCoffee-Backend-RAG"]
+	path = BCoffee-Backend-RAG
+	url = https://github.com/HelloMinh2122005/BCoffee-Backend-RAG.git
