@@ -1,3 +1,6 @@
 [submodule "BCoffee-FrontEnd-Android"]
 	path = BCoffee-FrontEnd-Android
 	url = https://github.com/HelloMinh2122005/BCoffee-FrontEnd-Android.git
+[submodule "BCoffee-Backend"]
+	path = BCoffee-Backend
+	url = https://github.com/HelloMinh2122005/BCoffee-Backend.git
